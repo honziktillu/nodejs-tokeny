@@ -53,3 +53,10 @@ Vysvětlené části:
 - `VSC` nebo nějaké jiné IDEčko
 - `Postman`
 
+### Postup
+- Vytvoříme (znovu použijeme) API, která bude komunikovat s databází (v našem případě MongoDB)
+- Doinstalujeme moduly `jsonwebtoken` a `bcryptjs`
+- Vytvoříme registraci a přihlášení
+- Vytvoříme middleware pro autentizace
+- V routes/index.js nastavíme autorizaci pro GET /
+
