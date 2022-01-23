@@ -57,6 +57,6 @@ Vysvětlené části:
 - Vytvoříme (znovu použijeme) API, která bude komunikovat s databází (v našem případě MongoDB)
 - Doinstalujeme moduly `jsonwebtoken` a `bcryptjs`
 - Vytvoříme registraci a přihlášení
-- Vytvoříme middleware pro autentizace
+- Vytvoříme middleware pro autentizaci
 - V routes/index.js nastavíme autorizaci pro GET /
 
